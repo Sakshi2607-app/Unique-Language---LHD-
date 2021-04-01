@@ -1,0 +1,7 @@
+These symbols don't add up to codes either. Instead you use them to make drawings similar to the no-internet game on chrome. A sample program looks like:
+
+
+     ||    ||  
+   ==||   =||=
+_____||____||____
+However, this program doesn't do anything. All code has to to start with four underscores, and all code has to end with four underscores. An underscore that doesn't start or end the code is used to print something. Since underscores are used throughout the program, you can presumably create a quine. Here's a chart with commands.
